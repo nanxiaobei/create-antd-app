@@ -1,0 +1,17 @@
+{
+  "name": "create-antd-app",
+  "version": "0.0.1",
+  "keywords": [
+    "react",
+    "antd",
+    "ant-design"
+  ],
+  "description": "Create Ant Design apps in one command",
+  "repository": "https://github.com/nanxiaobei/create-antd-app.git",
+  "author": "nanxiaobei <nanxiaobei@gmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
