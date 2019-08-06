@@ -11,6 +11,9 @@
   "author": "nanxiaobei <nanxiaobei@gmail.com>",
   "license": "MIT",
   "main": "index.js",
+  "files": [
+    "src"
+  ],
   "devDependencies": {
     "prettier": "^1.18.2"
   }
